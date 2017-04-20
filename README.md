@@ -3,7 +3,7 @@
 # MyProjects
 ### Hi all, this contains some set of projects I did.
 
-**Instagram.py** - You can execute this file to get following list in instagram account. It will check upto 100 followers and saves them in .csv file.
+**Instagram.py** - You can execute this file to get 'following' list in instagram account. It will check upto 100 followers and saves them in .csv file.
 
    What all you need:
  
