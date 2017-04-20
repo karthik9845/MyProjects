@@ -1,6 +1,6 @@
 
 
-# MyProjects
+# Instagram Projects Using Selenium bindings
 ### Hi all, this contains some set of projects I did.
 
 **Instagram_following.py** - You can execute this file to get **_following_** list in instagram account. It will check upto 100 following accounts with thier ids and saves them in .csv file.
