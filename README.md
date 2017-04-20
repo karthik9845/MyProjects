@@ -3,7 +3,7 @@
 # MyProjects
 ### Hi all, this contains some set of projects I did.
 
-**Instagram.py** - You can execute this file to get 'following' list in instagram account. It will check upto 100 followers and saves them in .csv file.
+**Instagram.py** - You can execute this file to get **_following_** list in instagram account. It will check upto 100 followers and saves them in .csv file.
 
    What all you need:
  
@@ -17,4 +17,3 @@
  
 -    3.geckodriver:
       geckodriver.exe is driver used to open firefox in windows so you better download this too and set      environment variable.
-
