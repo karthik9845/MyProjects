@@ -1,6 +1,6 @@
 
 
-# Instagram Projects Using Selenium bindings
+# Python Projects
 ### Hi all, this contains some set of projects I did.
 
 **Instagram_following.py** - You can execute this file to get **_following_** list in instagram account. It will check upto 100 following accounts with thier ids and saves them in .csv file.
@@ -19,3 +19,13 @@
  
 -    3.geckodriver:
       geckodriver.exe is driver used to open firefox in windows so you better download this too and set      environment variable.
+
+**googlesearch.py** - Opens google search results in browser. First it takes the query from commandline arguments and then makes get request giving us the list of results.
+
+   What all you need:
+ 
+-    1.webbrowser module
+  
+-    2.requests module
+ 
+-    3.bs4 module (Beautiful Soup)
