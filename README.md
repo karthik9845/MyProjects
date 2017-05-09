@@ -29,3 +29,5 @@
 -    2.requests module
  
 -    3.bs4 module (Beautiful Soup)
+
+**sendmail.py** - Can send emails through SMTP using smtplib module in python. In this I used only for gmail but can be used for other domains too.
