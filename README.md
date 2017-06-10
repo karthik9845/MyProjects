@@ -31,3 +31,5 @@
 -    3.bs4 module (Beautiful Soup)
 
 **sendmail.py** - Can send emails through SMTP using smtplib module in python. In this I used only for gmail but can be used for other domains too.
+
+**xkcd_site.py** - This is used to download all the comics in xkcd.com website and store into folder named xkcd. It uses beautiful soup and requests module.
