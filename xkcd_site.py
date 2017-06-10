@@ -1,6 +1,6 @@
 import requests,os,bs4
 
-#We use beautiful soup to parse and requests module to retrieve pages.
+#We use beautiful soup to parse and requests module to retrieve pages
 
 url='http://xkcd.com'
 if not os.path.isdir('xkcd'):
